@@ -6,21 +6,21 @@ A collection of structured playbooks and frameworks designed to help solopreneur
 
 | Skill | Description |
 |-------|-------------|
-| [Idea Validation](idea-validation.md) | Validate a business idea before investing time or money |
-| [Market Research](market-research.md) | Research and understand your target market |
-| [Niche Selection](niche-selection.md) | Find and evaluate profitable niches |
-| [Competitive Analysis](competitive-analysis.md) | Analyze competitors and find your edge |
-| [Business Model Canvas](business-model-canvas.md) | Design how your business creates and captures value |
-| [Value Proposition & Positioning](positioning-strategy.md) | Craft your unique market position |
-| [Naming & Domains](naming-and-domains.md) | Choose the right name and secure your domain |
-| [Brand Identity](brand-identity.md) | Build a cohesive brand identity |
-| [MVP Planning](mvp-planning.md) | Plan and build your minimum viable product |
-| [Business Plan](business-plan.md) | Create a comprehensive business plan |
-| [Pricing Strategy](pricing-strategy.md) | Set optimal prices for your products/services |
-| [Revenue Model Design](revenue-model-design.md) | Design sustainable revenue streams |
-| [Unit Economics](unit-economics.md) | Understand and optimize your unit economics |
-| [Financial Planning](financial-planning.md) | Plan and manage your business finances |
-| [Goal Setting & OKRs](goal-setting-okrs.md) | Set and track meaningful business goals |
+| [Idea Validation](idea-validation/SKILL.md) | Validate a business idea before investing time or money |
+| [Market Research](market-research/SKILL.md) | Research and understand your target market |
+| [Niche Selection](niche-selection/SKILL.md) | Find and evaluate profitable niches |
+| [Competitive Analysis](competitive-analysis/SKILL.md) | Analyze competitors and find your edge |
+| [Business Model Canvas](business-model-canvas/SKILL.md) | Design how your business creates and captures value |
+| [Positioning Strategy](positioning-strategy/SKILL.md) | Craft your unique market position |
+| [Naming & Domains](naming-and-domains/SKILL.md) | Choose the right name and secure your domain |
+| [Brand Identity](brand-identity/SKILL.md) | Build a cohesive brand identity |
+| [MVP Planning](mvp-planning/SKILL.md) | Plan and build your minimum viable product |
+| [Business Plan](business-plan/SKILL.md) | Create a comprehensive business plan |
+| [Pricing Strategy](pricing-strategy/SKILL.md) | Set optimal prices for your products/services |
+| [Revenue Model Design](revenue-model-design/SKILL.md) | Design sustainable revenue streams |
+| [Unit Economics](unit-economics/SKILL.md) | Understand and optimize your unit economics |
+| [Financial Planning](financial-planning/SKILL.md) | Plan and manage your business finances |
+| [Goal Setting & OKRs](goal-setting-okrs/SKILL.md) | Set and track meaningful business goals |
 
 ## How to Use
 
