@@ -1,5 +1,5 @@
 # Solopreneur Skills Library
-A collection of 40 structured playbooks and frameworks for solopreneurs — covering everything from validating your first idea to scaling beyond yourself.
+A collection of 40 structured playbooks and frameworks for solopreneurs, covering everything from validating your first idea to scaling beyond yourself.
 
 Each skill is a self-contained playbook with step-by-step frameworks, decision trees, templates, real examples, and common mistakes. Designed to work both as reference docs and as Claude AI skills.
 
@@ -14,7 +14,7 @@ These skills work as context files for Claude. Drop a `SKILL.md` into your Claud
 2. Copy the skill folders you want into your Claude skills directory
 3. Claude will automatically reference the playbook when you ask relevant questions
 
-**Trigger phrases** are listed in each skill's frontmatter — these are the phrases that tell Claude to use that skill. For example, asking *"help me validate my idea"* will trigger the `idea-validation` skill.
+**Trigger phrases** are listed in each skill's frontmatter, these are the phrases that tell Claude to use that skill. For example, asking *"help me validate my idea"* will trigger the `idea-validation` skill.
 
 ---
 
@@ -113,7 +113,7 @@ Each skill is a self-contained playbook with:
 
 **Starting a new venture?** Work through Batches 1–3 in order.
 
-**Growing an existing business?** Jump to the specific skill you need — use the trigger keywords in each skill's frontmatter to find the right one fast.
+**Growing an existing business?** Jump to the specific skill you need, use the trigger keywords in each skill's frontmatter to find the right one fast.
 
 **Using with Claude?** See the [setup instructions](#how-to-use-with-claude) above.
 
